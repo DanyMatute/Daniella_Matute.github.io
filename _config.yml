@@ -3,3 +3,10 @@ title: "Bioinformatics Portfolio"
 description: "Projects and posts"
 theme: minima
 markdown: kramdown
+minima:
+  skin: classic
+sass:
+  style: compressed
+
+include:
+  - assets/custom-japandi.css
